@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>country_key</name>
+        <rest_message_function display_value="CountryMethod">c315897d2f921010b42a265df699b678</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 19:07:10</sys_created_on>
+        <sys_id>44464d7d2f921010b42a265df699b676</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>country_key</sys_name>
+        <sys_package display_value="RestOutbound demo" source="x_475686_restoutbo">9ab2c5712f921010b42a265df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RestOutbound demo">9ab2c5712f921010b42a265df699b6ae</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_44464d7d2f921010b42a265df699b676</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 19:07:52</sys_updated_on>
+        <type>string</type>
+        <value>a6d63b9ffamshf62dbd0c4222d9bp14a366jsn14f3964ac6e3</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

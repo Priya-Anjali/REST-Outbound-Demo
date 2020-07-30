@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_475686_restoutbo.country_key</name>
+        <read_roles/>
+        <suffix>country_key</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 19:00:14</sys_created_on>
+        <sys_id>d4148d3d2f921010b42a265df699b6c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_475686_restoutbo.country_key</sys_name>
+        <sys_package display_value="RestOutbound demo" source="x_475686_restoutbo">9ab2c5712f921010b42a265df699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RestOutbound demo">9ab2c5712f921010b42a265df699b6ae</sys_scope>
+        <sys_update_name>sys_properties_d4148d3d2f921010b42a265df699b6c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 19:00:14</sys_updated_on>
+        <type>string</type>
+        <value>a6d63b9ffamshf62dbd0c4222d9bp14a366jsn14f3964ac6e3</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=d4148d3d2f921010b42a265df699b6c3"/>
+</record_update>
